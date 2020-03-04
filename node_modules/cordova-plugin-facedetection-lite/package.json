@@ -1,0 +1,67 @@
+{
+  "_from": "cordova-plugin-facedetection-lite",
+  "_id": "cordova-plugin-facedetection-lite@0.3.5",
+  "_inBundle": false,
+  "_integrity": "sha512-/1P/w0Xjj25AhLpH3GjZbFi7SqX8NdB+pXKbEGD+yI8zX2b9ia8LdszYbqfLA3bjkrQ2Y4s2c+Ed7GF1T4/KbA==",
+  "_location": "/cordova-plugin-facedetection-lite",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-facedetection-lite",
+    "name": "cordova-plugin-facedetection-lite",
+    "escapedName": "cordova-plugin-facedetection-lite",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-facedetection-lite/-/cordova-plugin-facedetection-lite-0.3.5.tgz",
+  "_shasum": "70b64c667c48c549d81ec52a2d1a93f2039e330c",
+  "_spec": "cordova-plugin-facedetection-lite",
+  "_where": "D:\\github.com\\cordova9",
+  "author": {
+    "name": "Luís De Marchi",
+    "email": "luis@luisdemarchi.com.br",
+    "url": "http://www.luisdemarchi.com.br"
+  },
+  "bugs": {
+    "url": "https://github.com/luisdemarchi/cordova-plugin-facedetection-lite/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-facedetection-lite",
+    "platforms": [
+      "ios",
+      "android",
+      "browser"
+    ]
+  },
+  "deprecated": false,
+  "description": "A face detection offline with a few lines of code. Was designed to run on old smartphones.",
+  "homepage": "https://github.com/luisdemarchi/cordova-plugin-facedetection-lite#readme",
+  "issue": "https://github.com/luisdemarchi/cordova-plugin-facedetection-lite/issues",
+  "keywords": [
+    "ecosystem:cordova",
+    "phonegap",
+    "cordova-ios",
+    "cordova-android",
+    "cordova-browser",
+    "facedetection",
+    "face",
+    "detection",
+    "detector",
+    "detecção",
+    "lite"
+  ],
+  "license": "unlicense",
+  "name": "cordova-plugin-facedetection-lite",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisdemarchi/cordova-plugin-facedetection-lite.git"
+  },
+  "version": "0.3.5"
+}

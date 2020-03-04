@@ -1,0 +1,76 @@
+{
+  "_from": "cordova-plugin-crosswalk-webview-v3@3.0.2",
+  "_id": "cordova-plugin-crosswalk-webview-v3@3.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-DHCDw01EvZbpIHz4pJyaAHsnFFsOjwYj5CbzVmrXK812JBXlVWsLu+6gPyBxMbxgCsjyr1GlzlHIWwCKi1FYcA==",
+  "_location": "/cordova-plugin-crosswalk-webview-v3",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "cordova-plugin-crosswalk-webview-v3@3.0.2",
+    "name": "cordova-plugin-crosswalk-webview-v3",
+    "escapedName": "cordova-plugin-crosswalk-webview-v3",
+    "rawSpec": "3.0.2",
+    "saveSpec": null,
+    "fetchSpec": "3.0.2"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-crosswalk-webview-v3/-/cordova-plugin-crosswalk-webview-v3-3.0.2.tgz",
+  "_shasum": "90694c202ed012d915e1ce4b9b3a2bb692a80104",
+  "_spec": "cordova-plugin-crosswalk-webview-v3@3.0.2",
+  "_where": "D:\\github.com\\cordova9",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ardabeyazoglu/cordova-plugin-crosswalk-webview-v3/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-crosswalk-webview-v3",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Changes the default WebView to CrossWalk",
+  "engines": {
+    "cordovaDependencies": {
+      "2.0.0": {
+        "cordova": ">=5.2.0",
+        "cordova-android": "4 - 5"
+      },
+      "2.1.0": {
+        "cordova": ">=5.2.0",
+        "cordova-android": "4 - 5"
+      },
+      "2.2.0": {
+        "cordova": ">=5.2.0",
+        "cordova-android": ">=6"
+      },
+      "3.0.0": {
+        "cordova": ">=8.0.0",
+        "cordova-android": ">=7"
+      }
+    }
+  },
+  "homepage": "https://github.com/ardabeyazoglu/cordova-plugin-crosswalk-webview-v3",
+  "keywords": [
+    "cordova",
+    "chromium",
+    "crosswalk",
+    "webview",
+    "engine",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "Apache 2.0",
+  "name": "cordova-plugin-crosswalk-webview-v3",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ardabeyazoglu/cordova-plugin-crosswalk-webview-v3.git"
+  },
+  "version": "3.0.2"
+}

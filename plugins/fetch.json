@@ -1,0 +1,26 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-crosswalk-webview-v3": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-crosswalk-webview-v3@3.0.2"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-facedetection-lite": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-facedetection-lite"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
